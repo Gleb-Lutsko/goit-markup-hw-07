@@ -624,7 +624,7 @@ img{
 @media screen and (min-width:1158px) {
     .footer-container{
         flex-wrap: nowrap;
-        max-width: none;
+        max-width: max-content;
     }
 }
 @media screen and (min-width:1158px) {
